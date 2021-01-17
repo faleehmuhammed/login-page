@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #bab6b7;
+}
+.container{
+    margin-top: 94px;
+    width: 645px;
+    height: 332px;
+    background: #faf7f8;
+    font-size: 37px;
+    font-family: sans-serif;
+    margin-left: 59px;
+}
+.button{
+    margin-top:109px;
+    background: none;
+    color: black;
+    width: 161px;
+    height: 63px;
+    border-radius: 11px;
+    outline: none;
+    border: 2px solid #0cf546;
+   cursor: pointer;
+   outline: none;
+   
+}
